@@ -130,7 +130,7 @@ require (
 	github.com/sensu/sensu-go/api/core/v2 v2.14.0
 	github.com/shirou/gopsutil/v3 v3.22.4
 	github.com/showwin/speedtest-go v1.1.5
-	github.com/signalfx/golib/v3 v3.3.43
+	github.com/signalfx/golib/v3 v3.3.45
 	github.com/sirupsen/logrus v1.8.1
 	github.com/sleepinggenius2/gosmi v0.4.4
 	github.com/snowflakedb/gosnowflake v1.6.2
@@ -407,3 +407,5 @@ require (
 	sigs.k8s.io/structured-merge-diff/v4 v4.2.1 // indirect
 	sigs.k8s.io/yaml v1.2.0 // indirect
 )
+
+require github.com/logicmonitor/lm-data-sdk-go v0.4.4
